@@ -22,7 +22,7 @@ var app = builder.Build();
 // Middleware
 
 app.UseSwagger();
-
+S
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
